@@ -64,6 +64,12 @@
 
 <hr>
 
+<h2>🎥 FoG Prediction Video Demo</h2>
+<p>Watch the demonstration video showcasing the FoG detection system in action:</p>
+<p><a href="https://drive.google.com/file/d/1Nmk-0azCUL6fLEa3HSHZPwjBT0dwXoCx/view?usp=sharing" target="_blank"><strong>▶️ Watch Demo Video</strong></a></p>
+
+<hr>
+
 <h2>🚀 Future Improvements</h2>
 <ul>
     <li>Deploy real-time FoG detection using mobile or wearable devices.</li>
@@ -75,4 +81,3 @@
 
 <h2>📢 Acknowledgements</h2>
 <p>Dataset provided by the <a href="https://archive.ics.uci.edu/" target="_blank">UCI Machine Learning Repository</a>.</p>
-
